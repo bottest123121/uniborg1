@@ -1,1 +1,2 @@
-worker: python3 -m stdborg hackedyouagain
+worker: python3 -m stdborg
+
