@@ -20,4 +20,5 @@ telegraph
 urbandict
 wikipedia
 youtube-dl
+dropbox
 git+https://github.com/ahupp/python-magic
